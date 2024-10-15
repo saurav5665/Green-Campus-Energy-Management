@@ -1,0 +1,124 @@
+/* Custom Dark Green Navbar Background */
+.bg-dark-green {
+    background-color: #2d6a4f !important; /* Dark green */
+}
+
+/* Navbar links in white */
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* White links */
+}
+
+/* Active nav-link styling */
+.navbar-nav .nav-link.active {
+    background-color: #1b4332; /* Darker green background for active link */
+    color: #b7e4c7 !important; /* Light green text color for contrast */
+    border-radius: 0.25rem; /* Rounded corners for the active link background */
+    padding: 0.5rem 1rem; /* Adjust padding for better spacing */
+}
+
+/* Navbar brand text */
+.navbar-brand {
+    color: #ffffff !important; /* White brand text */
+}
+
+/* Navbar toggler */
+.navbar-toggler {
+    border-color: #ffffff; /* White border for the toggle button */
+}
+
+/* Optional: Hover effect for nav links */
+.navbar-nav .nav-link:hover {
+    color: #b7e4c7 !important; /* Light green text on hover */
+}
+
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8f5; /* Light greenish background */
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #2d6a4f; /* Dark green for a nature feel */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff !important; /* White for contrast */
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* White links */
+}
+
+.navbar-toggler {
+    border-color: #ffffff; /* White toggle button */
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba%28255, 255, 255, 1%29' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Card Styling */
+.card-header {
+    background-color: #40916c; /* Medium green for headers */
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: #d8f3dc; /* Lighter green background */
+    color: #333;
+}
+
+.card-text {
+    font-size: 1.1rem;
+}
+
+/* Chart Canvas Container */
+canvas {
+    background-color: #f0f8f5; /* Light background matching body */
+    border: 1px solid #40916c; /* Border to separate it nicely */
+}
+
+/* Footer Styling */
+footer {
+    background-color: #2d6a4f; /* Dark green for footer */
+    color: #ffffff; /* White text */
+}
+
+footer a {
+    color: #b7e4c7; /* Light green for links */
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .bg-secondary {
+    background-color: #1b4332 !important; /* Even darker green for the copyright bar */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e9f7ef; /* Light green for environmental feel */
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    font-size: 1.5rem;
+}
+
+footer {
+    background-color: #004d00;
+}
+
+footer p {
+    margin: 0;
+}
+
